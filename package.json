@@ -1,14 +1,22 @@
 {
-  "name": "project_10_04",
+  "name": "pep_hackathon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project- Myntra Product Twitter poll bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-Chaurasia-code/twitter_poll_bot_productshop.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-Chaurasia-code/twitter_poll_bot_productshop/issues"
+  },
+  "homepage": "https://github.com/Abhishek-Chaurasia-code/twitter_poll_bot_productshop#readme",
   "dependencies": {
     "json2xls": "^0.1.2",
     "nodemailer": "^6.5.0",

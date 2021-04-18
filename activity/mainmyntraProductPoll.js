@@ -18,7 +18,7 @@ let pathOfFile= path.join(__dirname,activity+"_Myntra_userproduct.JSON");
 let loginlink="https://twitter.com/LOGIN";
 
 
-console.log("Before");
+console.log("Code has been started");
 (async function () {
     try {
         let browserInstance = await puppeteer.launch({

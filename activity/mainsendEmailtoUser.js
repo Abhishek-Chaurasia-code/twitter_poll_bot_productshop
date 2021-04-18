@@ -18,7 +18,8 @@ var mailOptions = {
                   The excel file containing the product name,price and link has been attached here.`,
   attachments: [{
       filename:"user_product_data.xlsx",
-      path:"D:/Product_Purchase_Twitter_poll_bot/activity/user_product_data.xlsx"
+      path:"D:/pep_hackathon/activity/user_product_data.xlsx"
+      //D:\pep_hackathon
   }]
 //    raw\data.xlsx
 };
